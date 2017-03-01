@@ -10,14 +10,14 @@ To use the generated font in desktop programs, you can install the TTF font. Whi
 
 In order to copy the character associated with each icon, refer to the text box at the bottom right corner of each glyph in *demo.html*. The character inside this text box may be invisible; but it can still be copied. See this guide for more info: https://icomoon.io/#docs/font-face
 
-You won't need any of the files located under the *demo-files* directory when including the generated font in your own projects. 
+You won't need any of the files located under the *demo-files* directory when including the generated font in your own projects.
 
 ## Built With
 
 * [Icomoon App](https://icomoon.io/) - The web framework to create custom font icon for your project.
 
 ## Versioning
-v0.1 - 17 Jan 2017
+v0.1 - 17 Jan 2017 (Company, Contact Person, Edit, Export, False, Project Manager, Project, Right, Save, SupaAgents)
 
 We use [SemVer](http://semver.org/) for versioning.
 
